@@ -13,6 +13,7 @@
 						<div class="card">
 						<div class="card-header">
 							<h5 class="card-title">Tagihan</h5>
+							<a href="<?=bash_url()?>backend/read_siswa"></a>
 						</div>
 
 						<div class="card-body">
